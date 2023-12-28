@@ -6,9 +6,7 @@ import {
   Heading,
   Image,
   List,
-  ListItem,
-  Spinner,
-  Text
+  ListItem
 } from "@chakra-ui/react";
 import getCroppedImageUrl from "../services/image-url";
 // import GenreSkeleton from "./GenreSkeleton";
